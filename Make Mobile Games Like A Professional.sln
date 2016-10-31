@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make Mobile Games Like A Professional.CSharp", "Make Mobile Games Like A Professional.CSharp.csproj", "{BCF3AAAA-3ED6-D06E-104A-7B0CCE45400B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF3AAAA-3ED6-D06E-104A-7B0CCE45400B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF3AAAA-3ED6-D06E-104A-7B0CCE45400B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF3AAAA-3ED6-D06E-104A-7B0CCE45400B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF3AAAA-3ED6-D06E-104A-7B0CCE45400B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

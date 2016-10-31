@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 5123153c0ca684cbba67e56d7bfe43e8
+timeCreated: 1430407605
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Repeat Level Button
+    21300002: Go To Map Button
+    21300004: Next Level Button
+    21300006: Resume Game Button
+    21300008: Coin Score Button
+    21300010: Score
+    21300012: Pause Button
+    21300014: UI Coin
+    21300016: Lock
+    21300018: Facebook Icon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Repeat Level Button
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 397
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Go To Map Button
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 397
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Next Level Button
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 397
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Resume Game Button
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 397
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin Score Button
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 307
+        width: 210
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Score
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 307
+        width: 289
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pause Button
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 193
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI Coin
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 194
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lock
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 173
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Facebook Icon
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
